@@ -16,7 +16,7 @@
  	user = 'Subrata Roy'
 	current_edu = "General Assembly SEI"
 	hobbies = [
-				'Cookies',
+				'Cooking',
 				'Watching Detective Movies',
 				'Losing sleep chasing errors...'
 			]
