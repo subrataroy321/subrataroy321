@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-subrataroy321-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subrataroy321/)](https://www.linkedin.com/in/subrataroy321/) [![Gmail Badge](https://img.shields.io/badge/-subrata.r321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subrata.r321@gmail.com)](mailto:subrata.r321@gmail.com)
 
 
-![Shane's github stats](https://github-readme-stats.vercel.app/api?username=subrataroy321&theme=nightowl&show_icons=true)
+![Subrata's github stats](https://github-readme-stats.vercel.app/api?username=subrataroy321&theme=nightowl&show_icons=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=subrataroy321&title=Repositories,Commit,PullRequest,Followers,Joined2020,MultiLanguage" >
 
 <a href="https://github.com/subrataroy321/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
