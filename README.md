@@ -1,5 +1,5 @@
 <h1 align="center"> Full-stack developer</h1>
-<hr/>
+
 <p>Problem Solver | Team Player | Love to Learn</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-subrataroy321-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subrataroy321/)](https://www.linkedin.com/in/subrataroy321/) [![Gmail Badge](https://img.shields.io/badge/-subrata.r321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subrata.r321@gmail.com)](mailto:subrata.r321@gmail.com)[![GitHub Subrata](https://img.shields.io/github/followers/subrataroy321?label=follow&style=social)](https://github.com/subrataroy321)
