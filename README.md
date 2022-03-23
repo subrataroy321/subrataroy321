@@ -8,7 +8,7 @@
 ![Subrata's github stats](https://github-readme-stats.vercel.app/api?username=subrataroy321&theme=nightowl&show_icons=true)
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=subrataroy321&layout=compact&theme=vue&hide_title=true&hide_border=true)
 
-<img src="https://github-profile-trophy.vercel.app/?username=subrataroy321&title=Repositories,Commit,PullRequest,Followers,Joined2018,MultiLanguage" >
+<img src="https://github-profile-trophy.vercel.app/?username=subrataroy321&title=Repositories,Commit,PullRequest,Followers,Joined2019,MultiLanguage" >
 
 <a href="https://github.com/subrataroy321/github-readme-stats">
   <img align="right" src="https://github-readme-stats.subrataroy321.vercel.app/api/top-langs/?username=subrataroy321&layout=compact&theme=radical" />
